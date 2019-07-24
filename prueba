@@ -3,4 +3,5 @@ as
 begin
 dbms_out_put.put_line('prueba');
 null;
+null;
 end prueba;
